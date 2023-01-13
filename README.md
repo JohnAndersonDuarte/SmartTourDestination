@@ -6,10 +6,15 @@ Projeto ganhador de vários prêmios nacionais como:
 - Prêmio Nacional do Turismo / 2019
 - Prêmio Nacional do Turismo / 2018
 
+![Capa](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Capa.png)
+
 # Site
 https://smarttourbrasil.com.br/
 
 # Telas da Aplicação
+![Tela1](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela1.png)
+![Tela2](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela2.png)
+![Tela3](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela3.png)
 
 # Backend
 - PHP / Laravel
